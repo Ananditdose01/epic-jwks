@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "6fctHw7Ra5ruqT8nBIzHhB9tWIh-fF15-WyfutB7wVl1hvKjRcowkXXkQI_oW_nTYqVJ6Njzhq0bTAVReESh38dmsM4BBuLoSEQ9_5OFaVXyjY6NMsW-LHI9o-lisQFf8L4V5xxdZ1CNYau_ZoVpGLwEDLdPl1rTen2VauifS1vuiFJunOInGzWiFI69GPAUM4HXM0kfNIEKYflc08OJh_tYdirp_-M-OyoOT73XNQQPW0MjiGVpJP5FB9ukMFWX9ytvfCJisyqp6K5Khpa4PmIrKSEAOCcoQv_ApepXVyspdE7FFNcX6JZxCwvYrjz4J13p_oWxuexQsDPI73a0bw",
+      "e": "AQAB",
+      "kid": "ehr-hub-epic-key-1",
+      "use": "sig",
+      "alg": "RS384"
+    }
+  ]
+}
